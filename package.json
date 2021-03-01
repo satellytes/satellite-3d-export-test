@@ -10,7 +10,7 @@
   "dependencies": {
     "parcel": "^1.12.4",
     "parcel-plugin-static-files-copy": "^2.2.1",
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "three.js": "^0.77.1"
   },
   "devDependencies": {
